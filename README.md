@@ -83,9 +83,6 @@ Includes missing values, outage periods, and outliers to simulate real-world noi
    - Forecast and residual plots
 
 ---
-MAE: 
-RMSE: 
-MAPE: 
 
 ## 📌 Results
 

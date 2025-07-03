@@ -83,15 +83,16 @@ Includes missing values, outage periods, and outliers to simulate real-world noi
    - Forecast and residual plots
 
 ---
+MAE: 
+RMSE: 
+MAPE: 
 
 ## 📌 Results
 
 | Model | MAE | RMSE | MAPE |
 |-------|-----|------|------|
-| Baseline | ~X.XX | ~X.XX | ~XX.X% |
-| Random Forest | ~X.XX | ~X.XX | ~XX.X% |
-
-*(Replace with your actual values)*
+| Baseline | ~5.46 | ~6.72 | ~17.69% |
+| Random Forest | ~3.88 | ~4.99 | ~12.41% |
 
 ---
 

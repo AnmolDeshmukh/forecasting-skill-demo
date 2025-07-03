@@ -102,4 +102,4 @@ Includes missing values, outage periods, and outliers to simulate real-world noi
 
 ## Contact
 
-Created by [Anmol Deshmukh](https://github.com/TypicalAD101)  
+Created by [Anmol Deshmukh](https://github.com/anmolDeshmukh/)

@@ -1,10 +1,9 @@
 # Forecasting Skill Demonstration
 
-This project demonstrates a 24-hour load forecasting pipeline using both baseline and machine learning (Random Forest) approaches. The task was given as part of a volunteering opportunity with the LEAPS Lab at ASU.
-
+This project demonstrates a 24-hour load forecasting pipeline using both baseline and machine learning (Random Forest) approaches.
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 forecasting-skill-demo/
@@ -19,7 +18,7 @@ forecasting-skill-demo/
 
 ---
 
-## 📊 Objectives
+## Objectives
 
 - Clean and preprocess time-series load data
 - Implement baseline forecasting using historical patterns
@@ -29,7 +28,7 @@ forecasting-skill-demo/
 
 ---
 
-## 🛠️ Setup Instructions
+## Setup Instructions
 
 ### 1. Clone the repository
 ```bash
@@ -49,7 +48,7 @@ jupyter notebook notebook.ipynb
 
 ---
 
-## 📈 Data Description
+## Data Description
 
 - **File**: `load_data.csv`
 - **Frequency**: Hourly
@@ -61,7 +60,7 @@ Includes missing values, outage periods, and outliers to simulate real-world noi
 
 ---
 
-## 📘 Project Steps
+## Project Steps
 
 1. **Data Preprocessing**
    - Interpolate missing values
@@ -84,7 +83,7 @@ Includes missing values, outage periods, and outliers to simulate real-world noi
 
 ---
 
-## 📌 Results
+## Results
 
 | Model | MAE | RMSE | MAPE |
 |-------|-----|------|------|
@@ -93,7 +92,7 @@ Includes missing values, outage periods, and outliers to simulate real-world noi
 
 ---
 
-## 📂 Notes
+## Notes
 
 - Future enhancements could include neural networks, hyperparameter tuning, or model ensembling.
 - All code is organized into modular sections for readability.
@@ -101,6 +100,6 @@ Includes missing values, outage periods, and outliers to simulate real-world noi
 
 ---
 
-## 📬 Contact
+## Contact
 
 Created by [Anmol Deshmukh](https://github.com/TypicalAD101)  

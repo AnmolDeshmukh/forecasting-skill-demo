@@ -33,7 +33,7 @@ forecasting-skill-demo/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/TypicalAD101/forecasting-skill-demo.git
+git clone https://github.com/AnmolDeshmukh/forecasting-skill-demo.git
 cd forecasting-skill-demo
 ```
 
